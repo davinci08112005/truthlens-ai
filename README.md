@@ -1,20 +1,81 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🔍 TruthLens AI
 
-# Run and deploy your AI Studio app
+TruthLens AI is a multi-agent intelligence system that detects, verifies, and explains misinformation while identifying manipulation patterns to build digital immunity.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/7760fd4d-2b36-497a-befb-d876b655c462
+## 🚀 Problem
 
-## Run Locally
+Misinformation today leads to:
 
-**Prerequisites:**  Node.js
+* Financial scams
+* Dangerous medical decisions
+* Loss of trust
 
+Users cannot reliably distinguish between real and manipulated information.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 💡 Solution
+
+TruthLens AI solves this using a **multi-agent reasoning system** that:
+
+1. Classifies content domain (Finance, Healthcare, etc.)
+2. Detects manipulation patterns
+3. Verifies against regulatory and scientific principles
+4. Assigns credibility and risk
+5. Provides clear, actionable guidance
+
+---
+
+## 🧠 Key Features
+
+* Multi-agent AI pipeline
+* Credibility scoring & risk classification
+* Behavioral Risk Insight (Digital Immunity)
+* Financial & healthcare misinformation detection
+* Explainable AI outputs
+
+---
+
+## ⚙️ Tech Stack
+
+* React + TypeScript
+* Google Gemini API
+* Prompt Engineering
+* Multi-agent simulation architecture
+
+---
+
+## ▶️ Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 📌 Use Cases
+
+* Financial scam detection
+* Healthcare misinformation filtering
+* Social media content validation
+* Integration into banking & news platforms
+
+---
+
+## 🎯 Innovation
+
+TruthLens AI does not just detect misinformation.
+
+👉 It identifies manipulation patterns and teaches users how to recognize them.
+
+We call this **Digital Immunity**.
+
+---
+
+## 🧠 Vision
+
+We are not building just a fact-checker.
+We are building digital immunity.
